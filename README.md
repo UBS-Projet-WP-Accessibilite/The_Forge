@@ -1,2 +1,2 @@
 # The_Forge
-Un repo regroupant tous les documents et recherches liés auxprojet
+Un repo regroupant tous les documents et recherches liés au projet
